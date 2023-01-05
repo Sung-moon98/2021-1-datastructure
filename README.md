@@ -1,2 +1,1 @@
-# 2021-1 data-structure
-자료구조
+# 2021 Data-Structure
